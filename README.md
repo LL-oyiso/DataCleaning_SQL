@@ -1,6 +1,6 @@
 # DataCleaning_SQL
-Objective:
 
+# Objective:
 The primary objective is to meticulously clean and preprocess the NashvilleHousing dataset, ensuring data quality and consistency before further analysis.
 
 # Process:
